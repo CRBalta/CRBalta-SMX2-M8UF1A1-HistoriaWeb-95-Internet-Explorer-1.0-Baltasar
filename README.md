@@ -19,4 +19,4 @@ __3. Integración con Windows:__ Aunque esta versión inicial no estaba completa
 | Memoria (RAM) | 4 MB de RAM (8 MB recomendados) |
 |Espacio en disco | Parte del paquete "Microsoft Plus!" |
 
-Link de Internet Explorer:[Internet Explorer](https://www.microsoft.com/es-es/download/internet-explorer.aspx "Internet Explorer")
+Link de Internet Explorer:  [Internet Explorer](https://www.microsoft.com/es-es/download/internet-explorer.aspx "Internet Explorer")

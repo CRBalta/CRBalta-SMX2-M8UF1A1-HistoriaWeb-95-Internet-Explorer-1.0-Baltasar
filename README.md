@@ -9,3 +9,12 @@ __1. Interfaz básica:__ Comparado con navegadores posteriores, tenía una inter
 __2. Capacidad de visualizar HTML básico:__ Era capaz de interpretar HTML, pero no soportaba muchas de las tecnologías que aparecieron posteriormente, como CSS, JavaScript o plugins avanzados.
 
 __3. Integración con Windows:__ Aunque esta versión inicial no estaba completamente integrada con el sistema operativo como las versiones posteriores, era el primer paso de Microsoft para lograr una mayor integración de su navegador con Windows.
+
+Requerimientos
+
+| Sistema Operativo | Windows 95 |
+|----------------|---------------|
+| Procesador | Procesador 386 o superior |
+| Memoria (RAM) | 4 MB de RAM (8 MB recomendados) |
+|Espacio en disco | Parte del paquete "Microsoft Plus!" |
+
